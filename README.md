@@ -1,16 +1,13 @@
-## Hi there 👋
+# Eduardo de Araújo
 
-<!--
-**eusoupremissa/eusoupremissa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou **Eduardo de Araújo**, CEO da **Code-Planet**. Minha experiência técnica inclui desenvolvimento de software, sistemas Linux e computação em GPU. Trabalho com C e Python, compilação com CMake e validação de código em hardware real.
 
-Here are some ideas to get you started:
+## Projetos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+No [OSCDA](https://github.com/eusoupremissa/OSCDA), trabalho na compatibilidade de kernels CUDA com GPUs AMD no Linux. Minhas contribuições incluem a tradução de PTX para AMDGPU, a integração com ROCm e HIP, o carregamento de código GPU embutido em executáveis e a validação de resultados na Radeon RX 6600.
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/logo-dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="assets/logo-light.png">
+  <img alt="Logo da Code-Planet" src="assets/logo-light.png" width="260">
+</picture>
